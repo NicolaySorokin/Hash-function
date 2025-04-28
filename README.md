@@ -9,6 +9,5 @@
     python hash_function.py <путь_к_файлу>
 
 ## Пример
-    ```bash
     python hash_function.py example.txt
 
